@@ -1,5 +1,8 @@
 # Tugas-Javascript-PWEB
 
 Untuk Menjalankan
-'yarn install'
-'yarn start-dev'
+```sh
+yarn install
+
+yarn run start-dev
+```
